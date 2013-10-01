@@ -6,22 +6,22 @@ Maqueta
 Se realizó principalmente con el framework Foundation (http://foundation.zurb.com/) esta compuesta por:
 
 Header
-		Links 
-		Logos y buscar
-		Menu Principal
+ Links 
+ Logos y buscar
+ Menu Principal
 
 Contenido
-		Bloque Central
-			Imagen principal
-			Articulos
-			Subtitulo
-			Productos Nuevos
-			Links
+ Bloque Central
+  Imagen principal
+  Articulos
+  Subtitulo
+  Productos Nuevos
+  Links
 			
-		Side Bar
-			Log-in de usuarios
-			Oferta
-			Facebook
+ Side Bar
+  Log-in de usuarios
+  Oferta
+  Facebook
 			
 Footer
 
