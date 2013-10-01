@@ -11,14 +11,14 @@ Header:
  *Menu Principal
 
 Contenido:
- Bloque Central->
+ *Bloque Central->
   Imagen principal
   Articulos
   Subtitulo
   Productos Nuevos
   Links
 			
- Side Bar->
+ *Side Bar->
   Log-in de usuarios
   Oferta
   Facebook
