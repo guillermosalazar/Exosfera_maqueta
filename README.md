@@ -5,20 +5,20 @@ Maqueta
 
 Se realizó principalmente con el framework Foundation (http://foundation.zurb.com/) esta compuesta por:
 
-Header
+Header:
  Links 
  Logos y buscar
  Menu Principal
 
-Contenido
- Bloque Central
+Contenido:
+ Bloque Central->
   Imagen principal
   Articulos
   Subtitulo
   Productos Nuevos
   Links
 			
- Side Bar
+ Side Bar->
   Log-in de usuarios
   Oferta
   Facebook
