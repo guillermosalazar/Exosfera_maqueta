@@ -6,9 +6,9 @@ Maqueta
 Se realizó principalmente con el framework Foundation (http://foundation.zurb.com/) esta compuesta por:
 
 Header:
- Links 
- Logos y buscar
- Menu Principal
+ *Links 
+ *Logos y buscar
+ *Menu Principal
 
 Contenido:
  Bloque Central->
